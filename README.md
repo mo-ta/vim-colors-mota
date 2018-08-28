@@ -1,4 +1,4 @@
-# vim-colors-japanesque
+# vim-colors-mota
 
 The colorscheme featuring Japanese traditional colors.
 
