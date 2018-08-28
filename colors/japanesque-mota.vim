@@ -136,3 +136,9 @@ highlight default link mkdDelimiter Statement
 
 " YAML
 highlight default link yamlKeyValueDelimiter Statement
+
+
+if has('multi_byte_ime')
+    highlight Cursor guifg=NONE guibg=DarkTurquoise
+    highlight CursorIM guifg=NONE guibg=IndianRed2
+endif
