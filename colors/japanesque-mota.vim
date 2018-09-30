@@ -142,3 +142,5 @@ if has('multi_byte_ime')
     highlight Cursor guifg=NONE guibg=DarkTurquoise
     highlight CursorIM guifg=NONE guibg=IndianRed2
 endif
+" 全角スペース
+highlight ZenkakuSpace cterm=underline ctermfg=white gui=underline guifg=yellow
