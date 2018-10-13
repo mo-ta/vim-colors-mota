@@ -3,7 +3,7 @@ scriptencoding utf-8
 set background=dark
 highlight clear
 
-let g:colors_name = 'mo-ta'
+let g:colors_name = 'japanesque-mota'
 if exists('syntax_on')
   syntax reset
 endif
