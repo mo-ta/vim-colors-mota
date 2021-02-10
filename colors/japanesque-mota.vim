@@ -14,10 +14,10 @@ let s:black      = '#3C2F41'
 let s:white      = '#F7F1D5'
 " 灰
 " let s:dark_gray  = '#828282'
-let s:dark_gray  = '#979797'
+let s:dark_gray  = '#A7A7A7'
 " 銀鼠
 " let s:gray       = '#91989F'
-let s:gray       = '#A6ADB5'
+let s:gray       = '#B6BDC5'
 " 今様
 let s:red        = '#D05A6E'
 " 桃
