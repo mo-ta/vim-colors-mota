@@ -38,7 +38,7 @@ function! airline#themes#onedarkmota#refresh()
   let g:airline#themes#onedarkmota#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
 
   let group = airline#themes#get_highlight('vimCommand')
-  let g:airline#themes#onedarkmota#palette.normal_modified = {
+  let g:airline#themes#onedarkmota#palette.insert_modified = {
         \ 'airline_c': [ group[0], '', group[2], '', '' ]
         \ }
 
