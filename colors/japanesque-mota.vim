@@ -18,7 +18,7 @@ let s:dark_gray  = '#828282'
 " let s:dark_gray  = '#B7B7B7'
 " 銀鼠
 " let s:gray       = '#91989F'
-let s:gray       = '#B6BDC5'
+let s:gray       = '#A6ADB5'
 " 今様
 let s:red        = '#D05A6E'
 " 桃
