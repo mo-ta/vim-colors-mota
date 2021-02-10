@@ -13,9 +13,11 @@ let s:black      = '#3C2F41'
 " 菜の花
 let s:white      = '#F7F1D5'
 " 灰
-let s:dark_gray  = '#828282'
+" let s:dark_gray  = '#828282'
+let s:dark_gray  = '#979797'
 " 銀鼠
-let s:gray       = '#91989F'
+" let s:gray       = '#91989F'
+let s:gray       = '#A6ADB5'
 " 今様
 let s:red        = '#D05A6E'
 " 桃
@@ -23,7 +25,8 @@ let s:magenta    = '#F596AA'
 " 苗
 let s:green      = '#86C166'
 " 鶯
-let s:dark_green = '#6C6A2D'
+" let s:dark_green = '#6C6A2D'
+let s:dark_green = '#868438'
 " 藤
 let s:purple     = '#8B81C3'
 " 鬱金
@@ -138,9 +141,9 @@ highlight default link mkdDelimiter Statement
 highlight default link yamlKeyValueDelimiter Statement
 
 
-if has('multi_byte_ime')
-    highlight Cursor guifg=NONE guibg=DarkTurquoise
-    highlight CursorIM guifg=NONE guibg=IndianRed2
-endif
+" if has('multi_byte_ime')
+"     highlight Cursor guifg=NONE guibg=DarkTurquoise
+"     highlight CursorIM guifg=NONE guibg=IndianRed2
+" endif
 " 全角スペース
 highlight ZenkakuSpace cterm=underline ctermfg=white gui=underline guifg=yellow
