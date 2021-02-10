@@ -15,7 +15,8 @@ let s:black      = '#2C1F31'
 let s:white      = '#F7F1D5'
 " 灰
 " let s:dark_gray  = '#828282'
-let s:dark_gray  = '#B7B7B7'
+" let s:dark_gray  = '#B7B7B7'
+let s:dark_gray  = '#FFFFFF'
 " 銀鼠
 " let s:gray       = '#91989F'
 let s:gray       = '#B6BDC5'
