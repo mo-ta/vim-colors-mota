@@ -133,7 +133,7 @@ highlight default link FugitiveblameDelimiter Delimiter
 highlight default link rubyStringDelimiter Conceal
 
 " Vim
-highlight default link vimParenSep Conceal
+highlight default link vimParenSep Delimiter
 
 " Markdown
 highlight default link mkdDelimiter Statement
